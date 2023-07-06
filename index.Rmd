@@ -1,0 +1,39 @@
+---
+title: "Joy Chia-Yi Lee"
+image: "JoyLee_pro.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**Yale University** | New Haven, CT, USA
+
+Ph.D. in Genetics | September 2020 - Present
+
+**National Taiwan University** | Taipei, Taiwan
+
+B.S. in Life Science Science | September 2014 - June 2018
+
+## Experience
+
+**Yale Biotech Club** | Datathon Director | July 2023 - Present
+
